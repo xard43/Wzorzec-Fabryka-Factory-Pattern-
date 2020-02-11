@@ -1,0 +1,3 @@
+C:\Users\m.sanok\source\repos\Wzorzec fabryka\Wzorzec fabryka\obj\Debug\netcoreapp3.0\Wzorzec fabryka.csprojAssemblyReference.cache
+C:\Users\m.sanok\source\repos\Wzorzec fabryka\Wzorzec fabryka\obj\Debug\netcoreapp3.0\Wzorzec fabryka.AssemblyInfoInputs.cache
+C:\Users\m.sanok\source\repos\Wzorzec fabryka\Wzorzec fabryka\obj\Debug\netcoreapp3.0\Wzorzec fabryka.AssemblyInfo.cs
